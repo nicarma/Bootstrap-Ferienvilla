@@ -1,5 +1,5 @@
 body {
-  margin: 0 auto;
+  margin: 0;
 }
 
 .card {
@@ -28,4 +28,9 @@ body {
 .article {
   padding: 5% 5%;
   font-family: 'Quicksand', sans-serif;
+}
+
+.nav {
+  margin: 0;
+
 }
